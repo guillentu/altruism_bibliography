@@ -1,0 +1,49 @@
+
+
+
+
+W. Erlhagen, A. Mukovskiy, E. Bicho, G. Panin, C.
+Kiss, A. Knoll, H. van Schie, H. Bekkering, “Goal-di-
+rected imitation for robots: A bio-inspired approach to
+action understanding and skill learning”, Robotics and
+Autonomous Systems 54 (2006) 353–3607. References
+
+R. Axelrod, The Evolulion of Cooperoiron. New York:
+Basic Books, Inc, 1984
+
+W. D. Hamilton, '"Altruism and Related Phcnomena,
+Mainly in Social Insects," Annual Review ofEcology ond
+Syslemolics, vol. 3, pp. 193-232, 1972.
+
+D. S. Wilson, "A Theory of Group Selection," Proceedings
+oftheNotiono1 Academy o/Scicience, USA, vol. 72, pp. 143-
+146, 1975.
+
+M. J. Wade, "Kin Selection: Its Components," Science, vol.
+210, pp. 665-667, 1980.
+
+D. C. Qucller, "Kinship, Reciprocity and Synergism in the
+Evolution of Social Behavior," Nolvre, vol. 318, pp. 366-
+367, 1985.
+
+D . C. Queller, "A Gencral Model far Kin Selcction,"
+Evolut;on, vol. 46, pp. 376-380. 1992.
+
+D. C. Queller. "Ouantitative Genetics. Inclusive Fitness.
+and Group Selection," The Americon Noluralisl, vol. 139,
+pp. 540-558, 1992.
+
+R. Boyd and P. 1. Richerson, "Punishment Allows the
+Evolution of Coapcration (or Anything Else) in Sizable
+Groups," Erhology~vandSociobiologyv, ol. 13, pp. 171-195,
+1992
+
+---
+
+Implementation and evaluation of a satisfaction/altruism based architecture for multi-robot systems
+Lucidarme, P.; Simonin, O.; Liegeois, A.
+Robotics and Automation, 2002. Proceedings. ICRA '02. IEEE International Conference on 
+Volume:	1	
+
+
+
