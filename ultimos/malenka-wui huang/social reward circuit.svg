@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="social reward circuit.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4533"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path4539"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4527"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4527-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4527-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4527-7-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4527-7-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4527-7-18"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4527-7-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4527-7-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="275.56774"
+     inkscape:cy="724.6557"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.4773488;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="156.56528"
+       height="142.6367"
+       x="77.074501"
+       y="261.72238" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="82.5"
+       y="257.00504"
+       id="text3755"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757"
+         x="82.5"
+         y="257.00504">MCL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="113.21429"
+       y="246.29076"
+       id="text3759"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761"
+         x="113.21429"
+         y="246.29076"
+         style="font-size:4px">&quot;NATURAL REWARD&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="113.21429"
+         y="251.29076"
+         id="tspan3763"
+         style="font-size:4px">prop de recompensa por </tspan><tspan
+         sodipodi:role="line"
+         x="113.21429"
+         y="256.29077"
+         style="font-size:4px"
+         id="tspan3769">addicción a las drogas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="66.428574"
+       y="274.86218"
+       id="text3771"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3773"
+         x="66.428574"
+         y="274.86218" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="48.214287"
+       y="255.21931"
+       id="text3775"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3777"
+         x="48.214287"
+         y="255.21931" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="87.745811"
+       y="278.86346"
+       id="text3755-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757-6"
+         x="87.745811"
+         y="278.86346">NAc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="112.84937"
+       y="273.02127"
+       id="text3759-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="112.84937"
+         y="273.02127"
+         style="font-size:4px"
+         id="tspan3769-0">Componente clave del circuito </tspan><tspan
+         sodipodi:role="line"
+         x="112.84937"
+         y="278.02127"
+         style="font-size:4px"
+         id="tspan3832">de recompensa en el  MCL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="77.788094"
+       y="412.11847"
+       id="text3759-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="77.788094"
+         y="412.11847"
+         style="font-size:4px"
+         id="tspan3769-2">En ratones OT y OTR Knockout muestran un número relativo de deficite </tspan><tspan
+         sodipodi:role="line"
+         x="77.788094"
+         y="417.11847"
+         style="font-size:4px"
+         id="tspan3866">comportamentales (discapacidad en memoria, anciedad, stress, agrecividad). </tspan><tspan
+         sodipodi:role="line"
+         x="77.788094"
+         y="422.11847"
+         style="font-size:4px"
+         id="tspan3868">Se utilizó Conditional Place Preference, CPP, para analizar las funciones de la</tspan><tspan
+         sodipodi:role="line"
+         x="77.788094"
+         y="427.11847"
+         style="font-size:4px"
+         id="tspan3870">OT como señal de recompensa social dentro del sistema nervioso.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="275.71429"
+       y="274.50784"
+       id="text3755-7-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757-6-0"
+         x="275.71429"
+         y="274.50784">Recompensa social requiere de OT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="275.83871"
+       y="284.89426"
+       id="text3759-0-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="275.83871"
+         y="284.89426"
+         style="font-size:4px"
+         id="tspan3927">inyecciones de OTR-A rebelan la perdida de preferencia de contextos sociales. Ni la</tspan><tspan
+         sodipodi:role="line"
+         x="275.83871"
+         y="289.89426"
+         style="font-size:4px"
+         id="tspan3931">actividad locomotora ni el cocain CPP fue alterada.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="273.07181"
+       y="304.40378"
+       id="text3755-7-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757-6-0-2"
+         x="273.07181"
+         y="304.40378">La OT induce presinaptic LTD en NAc MSN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="273.19623"
+       y="314.79019"
+       id="text3759-0-0-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="314.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan3931-4">Mediante el estudio de la EPSCs dese el NAc MSN se estudió el rol de OT en LTD.. Aplicando OT para causar LTD </tspan><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="319.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan3984">se encontro que la depresión en ratones con experiencias sociales era menor que en ratones aislados.</tspan><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="324.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan3990"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan4002">Circuitos del ganglio de la base</tspan> D1-receptpr-expressing y D2-receptor-expressing en MSN (los circuuitos están</tspan><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="329.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan4006">directamente relacionado con los aprendizajes apetitivos y aversivos). Se se obtienen resultados diferenciados</tspan><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="334.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan4010">durante la aplicación de OT para LTD, por lo tanto, no existe relación directa con el fenomeno buscado.</tspan><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="339.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan4018">Se determino que la la OT-LTD se genera por la dismunución de la probabilidad de liberación de neurotransmisores</tspan><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="344.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan4014">presinapticos. Obtenido mediantes ensayos neurofisiologicos, donde se observa en el las EPSC miniatira se disminuye</tspan><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="349.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan4016">la frecuancia, pero no a amplitud, con la aplicación de OT.   </tspan><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="354.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan4022">El ultimo parrafo: con la aplicación de OT se dismunille la frec. de los EPSCs miniatira y se incrementa el Paired-pulse ratio </tspan><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="359.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan4024">y el coeficiente de variación de los EPSCs.</tspan><tspan
+         sodipodi:role="line"
+         x="273.19623"
+         y="364.79019"
+         style="font-size:4px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="tspan4026" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="273.83267"
+       y="380.12097"
+       id="text3755-7-3-5-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757-6-0-2-2"
+         x="273.83267"
+         y="380.12097">La recompensa social requiere OTRs presinapticos  en NAc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="273.9209"
+       y="394.56766"
+       id="text3759-0-0-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="273.9209"
+         y="394.56766"
+         style="font-size:4px"
+         id="tspan3927-5">Se plante la hipotesis de que los OTRs  en el NAc se localizan en el boton presinaptico y provienen de entradas aferentes. Inyectaron de </tspan><tspan
+         sodipodi:role="line"
+         x="273.9209"
+         y="399.56766"
+         style="font-size:4px"
+         id="tspan3028">(Cre)-expressing RBV or adeno-associated virus (AAV) permite la ablación de pre o postsinaptico NAc OTRs. La inyección de RBV-Cre-eGFP elimina </tspan><tspan
+         sodipodi:role="line"
+         x="273.9209"
+         y="404.56766"
+         style="font-size:4px"
+         id="tspan3030">los OTRs  presinapticos en NAc y bloquea completamente la social CPP (conditional place preference).</tspan><tspan
+         sodipodi:role="line"
+         x="273.9209"
+         y="409.56766"
+         style="font-size:4px"
+         id="tspan3931-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="312.64221"
+       y="412.68307"
+       id="text3032"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3034"
+         x="312.64221"
+         y="412.68307" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="274.30865"
+       y="426.47614"
+       id="text3755-7-3-57"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="274.30865"
+         y="426.47614"
+         id="tspan3090">El CPP y LTD social requieren del dorsal raphe y receptores de 5-HT1B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="274.43307"
+       y="436.86255"
+       id="text3759-0-0-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="436.86255"
+         style="font-size:4px"
+         id="tspan3931-7">Determinar que entradas aferentes al NAc que expresan OTRs son requeridos para CPP social. Se utiliza una tecnica de identificación</tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="441.86255"
+         style="font-size:4px"
+         id="tspan3072">por RBV y ablación OTRs. La eliminación de OTS en el ventral subiculum y en el cingulate cortex no tiene efecto en el CPP social. Por otro </tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="446.86255"
+         style="font-size:4px"
+         id="tspan3074">lado, inyección de AAV-Cre-eGFP en el Dorsal raphe previene el CPP social y reduce el OT-LTD en ex vivo. Eliminacion de OTRs en el dorsal raphe</tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="451.86255"
+         style="font-size:4px"
+         id="tspan5188">previenen CPP</tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="456.86255"
+         style="font-size:4px"
+         id="tspan3076">Dado que le dorsal raphe es una de las principales fuentes de Serotonica (5-HT) y que los receptores 5-HT1B han sido asociados  a </tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="461.86255"
+         style="font-size:4px"
+         id="tspan3080">comportamientos sociales y autismo y a la generación de LTD en el Striatum, se plantea que la OT puede inducir LTD en el NAc a través </tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="466.86255"
+         style="font-size:4px"
+         id="tspan3086">de la activación de los receptores 5-HT1B.</tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="471.86255"
+         style="font-size:4px"
+         id="tspan3088">Mediante agonistas(sustancia que se une al receptor y genera algo parecido) de 5-HT1B se observa que se produce un robust LTD en el NAc MSNs</tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="476.86255"
+         style="font-size:4px"
+         id="tspan3094"> y subsiguientes aplicaciones de OT no genera LTD. La eliminación de los receptores 5-HT1B previene la generación normal de OT-LTD. </tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="481.86255"
+         style="font-size:4px"
+         id="tspan3096">Por el contrario, la induccion de LTD con receptores 5-HT1B se genera facilmente a pesar de que los OTRs hayan sido eliminados.</tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="486.86255"
+         style="font-size:4px"
+         id="tspan3098">SE concluye que la modulación sinaptica de estos dos componentes son necesarias paael LTD. </tspan><tspan
+         sodipodi:role="line"
+         x="274.43307"
+         y="491.86255"
+         style="font-size:4px"
+         id="tspan3078">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="377.54453"
+       y="444.25034"
+       id="text3068"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3070"
+         x="377.54453"
+         y="444.25034" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3100"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3102"><rect
+           id="rect3104"
+           width="190"
+           height="131.42857"
+           x="231.42857"
+           y="433.79074" /></flowRegion><flowPara
+         id="flowPara3106" /></flowRoot>    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.89311004;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-5"
+       width="123.07082"
+       height="53.78075"
+       x="88.405708"
+       y="283.67886" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="92.76123"
+       y="295.621"
+       id="text3755-7-3-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757-6-0-2-6"
+         x="92.76123"
+         y="295.621"><tspan
+           style="font-size:9px"
+           id="tspan3211">OT -&gt; LTD </tspan><tspan
+           style="font-size:6px;font-weight:normal;-inkscape-font-specification:Sans"
+           id="tspan3147">(presinaptic)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="92.237038"
+       y="308.14655"
+       id="text3755-7-3-5-9-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757-6-0-2-2-0"
+         x="92.237038"
+         y="308.14655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+           style="font-size:9px"
+           id="tspan3209">OTRs</tspan><tspan
+           style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+           id="tspan3174"> (presinaptico)</tspan><tspan
+           style="font-size:9px"
+           id="tspan3207"> -&gt; Reward </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="93.499741"
+       y="318.50058"
+       id="text3755-7-3-5-9-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757-6-0-2-2-4"
+         x="93.499741"
+         y="318.50058"
+         style="font-size:9px">Dorsal raphe -&gt; Reward</tspan><tspan
+         sodipodi:role="line"
+         x="93.499741"
+         y="329.75058"
+         id="tspan3199"><tspan
+           style="font-size:9px"
+           id="tspan3205">5-HT1B</tspan><tspan
+           style="font-size:5px"
+           id="tspan3201"> receptor           junto con  OTR</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="93.161835"
+       y="355.53146"
+       id="text3755-7-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757-6-8"
+         x="93.161835"
+         y="355.53146">Dorsal raphe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="161.12254"
+       y="350.40356"
+       id="text3759-0-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="161.12254"
+         y="350.40356"
+         style="font-size:4px"
+         id="tspan3308">Principal fuente de Serotonona </tspan><tspan
+         sodipodi:role="line"
+         x="161.12254"
+         y="355.40356"
+         style="font-size:4px"
+         id="tspan3312">(5-HT) del cerebro</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.52859664;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-5-3"
+       width="123.79247"
+       height="34.85955"
+       x="88.99662"
+       y="360.59317" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="93.48719"
+       y="373.74002"
+       id="text3755-7-3-5-9-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="93.48719"
+         y="373.74002"
+         id="tspan3290"><tspan
+           style="font-size:9px"
+           id="tspan3205-6">5-HT1B   -&gt; Reward</tspan><tspan
+           style="font-size:5px"
+           id="tspan3292" /></tspan><tspan
+         sodipodi:role="line"
+         x="93.48719"
+         y="381.00302"
+         id="tspan3302"><tspan
+           style="font-size:5px"
+           id="tspan3304">receptor</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="93.48719"
+         y="387.25302"
+         id="tspan3294"
+         style="font-size:5px">junto con  OTR</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path3316"
+       sodipodi:cx="-64.144684"
+       sodipodi:cy="301.81885"
+       sodipodi:rx="22.728432"
+       sodipodi:ry="22.728432"
+       d="m -41.416252,301.81885 a 22.728432,22.728432 0 1 1 -45.456864,0 22.728432,22.728432 0 1 1 45.456864,0 z"
+       transform="translate(-136.87567,55.55839)" />
+    <g
+       id="g4118"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(-665.71429,358.42857)">
+      <path
+         transform="matrix(0.65013159,0.75982163,-0.75982163,0.65013159,281.2293,279.96331)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.65013159,-0.75982163,-0.75982163,-0.65013159,279.61288,525.42972)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-2"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4114"
+         d="m -84.852814,358.38738 c 0,0 16.749712,9.12219 16.667517,40.40611 -0.100035,38.07382 -15.657364,48.48732 -15.657364,48.48732"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path4116"
+         d="m -42.426407,305.85945 c 0,0 29.680594,10.68663 28.789348,94.44927 -0.891246,83.76264 -25.75889,97.47972 -25.75889,97.47972"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(0.32656618,0,0,0.32656618,-130.37753,225.79273)"
+       id="g4118-5"
+       style="stroke-width:1.4239074;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+      <path
+         transform="matrix(0.65013159,0.75982163,-0.75982163,0.65013159,281.2293,279.96331)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-8"
+         style="fill:none;stroke:#000000;stroke-width:1.4239074;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763000000066"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.65013159,-0.75982163,-0.75982163,-0.65013159,279.61288,525.42972)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-2-1"
+         style="fill:none;stroke:#000000;stroke-width:1.4239074;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763000000066"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4114-7"
+         d="m -84.852814,358.38738 c 0,0 16.749712,9.12219 16.667517,40.40611 -0.100035,38.07382 -15.657364,48.48732 -15.657364,48.48732"
+         style="fill:none;stroke:#000000;stroke-width:1.4239074;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path4116-2"
+         d="m -42.426407,305.85945 c 0,0 29.680594,10.68663 28.789348,94.44927 -0.891246,83.76264 -25.75889,97.47972 -25.75889,97.47972"
+         style="fill:none;stroke:#000000;stroke-width:1.4239074;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4154"
+       sodipodi:cx="-213.57143"
+       sodipodi:cy="338.52289"
+       sodipodi:rx="3.2142856"
+       sodipodi:ry="4.375"
+       d="m -210.35714,338.52289 a 3.2142856,4.375 0 1 1 -6.42857,0 3.2142856,4.375 0 1 1 6.42857,0 z"
+       transform="translate(15.571429,94.214286)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4154-8"
+       sodipodi:cx="-213.57143"
+       sodipodi:cy="338.52289"
+       sodipodi:rx="3.2142856"
+       sodipodi:ry="4.375"
+       d="m -210.35714,338.52289 a 3.2142856,4.375 0 1 1 -6.42857,0 3.2142856,4.375 0 1 1 6.42857,0 z"
+       transform="translate(-97.500002,-81.874992)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4154-5"
+       sodipodi:cx="-213.57143"
+       sodipodi:cy="338.52289"
+       sodipodi:rx="3.2142856"
+       sodipodi:ry="4.375"
+       d="m -210.35714,338.52289 a 3.2142856,4.375 0 1 1 -6.42857,0 3.2142856,4.375 0 1 1 6.42857,0 z"
+       transform="translate(13.392854,-21.874992)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4154-6"
+       sodipodi:cx="-213.57143"
+       sodipodi:cy="338.52289"
+       sodipodi:rx="3.2142856"
+       sodipodi:ry="4.375"
+       d="m -210.35714,338.52289 a 3.2142856,4.375 0 1 1 -6.42857,0 3.2142856,4.375 0 1 1 6.42857,0 z"
+       transform="translate(48.392855,71.160722)" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-224.57143"
+       y="389.79074"
+       id="text4188"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4190"
+         x="-224.57143"
+         y="389.79074">OTRs</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4192"
+       sodipodi:cx="-168.92857"
+       sodipodi:cy="366.64789"
+       sodipodi:rx="116.78571"
+       sodipodi:ry="87.14286"
+       d="m -52.14286,366.64789 a 116.78571,87.14286 0 1 1 -233.57143,0 116.78571,87.14286 0 1 1 233.57143,0 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -213.21429,338.07647 c -12.47416,3.68325 -18.0847,10.94752 -51.07142,3.92857"
+       id="path4194"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -215.17858,375.79807 c -12.47416,-3.68325 -18.0847,-10.94752 -51.07142,-3.92857"
+       id="path4194-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       style="fill:#808000;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0.0162883,0.07380587,-0.07380587,0.0162883,-170.35381,332.37086)"
+       id="g4246">
+      <path
+         transform="matrix(0.65013159,0.75982163,-0.75982163,0.65013159,251.41699,395.4912)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-8-4"
+         style="fill:#808000;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.65013159,-0.75982163,-0.75982163,-0.65013159,249.80057,640.95761)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-2-1-0"
+         style="fill:#808000;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4114-7-4"
+         d="m -114.66513,473.91527 c 0,0 16.749716,9.12219 16.667521,40.40611 -0.100035,38.07382 -15.657361,48.48732 -15.657361,48.48732"
+         style="fill:none;stroke:#ff0000;stroke-width:3.96920705;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path4116-2-5"
+         d="m -72.238719,421.38734 c 0,0 29.680594,10.68663 28.789348,94.44927 -0.891246,83.76264 -25.75889,97.47972 -25.75889,97.47972"
+         style="fill:#808000;stroke:#ff0000;stroke-width:3.96920705;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:#808000;stroke-width:0.50118804;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         d="m -70.400645,609.77805 c -1.066205,-0.0568 -31.372785,-34.7834 -35.601845,-40.79452 l -3.36367,-4.78107 4.67412,-8.53306 c 12.93134,-23.60762 12.156985,-62.8774 -1.52733,-77.46059 -2.60963,-2.78118 -4.71806,-5.55912 -4.68536,-6.17321 0.0327,-0.61436 8.43899,-10.96695 18.680828,-23.00609 l 18.621358,-21.88942 0.54694,7.19483 c 0.300683,3.95719 0.975445,41.47221 1.499242,83.36688 0.523672,41.89452 1.175672,79.75984 1.448919,84.14512 0.273908,4.38531 0.140812,7.95425 -0.289899,7.93131 z"
+         id="path4244"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.01296933,-0.07446081,0.07446081,0.01296933,-243.2678,366.32202)"
+       id="g4246-6"
+       style="fill:#808000;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <path
+         transform="matrix(0.65013159,0.75982163,-0.75982163,0.65013159,251.41699,395.4912)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-8-4-5"
+         style="fill:#808000;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.65013159,-0.75982163,-0.75982163,-0.65013159,249.80057,640.95761)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-2-1-0-0"
+         style="fill:#808000;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4114-7-4-2"
+         d="m -114.66513,473.91527 c 0,0 16.749716,9.12219 16.667521,40.40611 -0.100035,38.07382 -15.657361,48.48732 -15.657361,48.48732"
+         style="fill:none;stroke:#ff0000;stroke-width:3.96920705;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path4116-2-5-7"
+         d="m -72.238719,421.38734 c 0,0 29.680594,10.68663 28.789348,94.44927 -0.891246,83.76264 -25.75889,97.47972 -25.75889,97.47972"
+         style="fill:#808000;stroke:#ff0000;stroke-width:3.96920705;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:#808000;stroke-width:0.50118804;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         d="m -70.400645,609.77805 c -1.066205,-0.0568 -31.372785,-34.7834 -35.601845,-40.79452 l -3.36367,-4.78107 4.67412,-8.53306 c 12.93134,-23.60762 12.156985,-62.8774 -1.52733,-77.46059 -2.60963,-2.78118 -4.71806,-5.55912 -4.68536,-6.17321 0.0327,-0.61436 8.43899,-10.96695 18.680828,-23.00609 l 18.621358,-21.88942 0.54694,7.19483 c 0.300683,3.95719 0.975445,41.47221 1.499242,83.36688 0.523672,41.89452 1.175672,79.75984 1.448919,84.14512 0.273908,4.38531 0.140812,7.95425 -0.289899,7.93131 z"
+         id="path4244-3"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-263.88113"
+       y="266.3457"
+       id="text4188-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4190-5"
+         x="-263.88113"
+         y="266.3457">OT</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4154-8-8"
+       sodipodi:cx="-213.57143"
+       sodipodi:cy="338.52289"
+       sodipodi:rx="3.2142856"
+       sodipodi:ry="4.375"
+       d="m -210.35714,338.52289 a 3.2142856,4.375 0 1 1 -6.42857,0 3.2142856,4.375 0 1 1 6.42857,0 z"
+       transform="translate(18.749998,-40.267849)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4154-8-0"
+       sodipodi:cx="-213.57143"
+       sodipodi:cy="338.52289"
+       sodipodi:rx="3.2142856"
+       sodipodi:ry="4.375"
+       d="m -210.35714,338.52289 a 3.2142856,4.375 0 1 1 -6.42857,0 3.2142856,4.375 0 1 1 6.42857,0 z"
+       transform="translate(28.749998,-26.517849)" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-185.35715"
+       y="265.93362"
+       id="text4334"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4336"
+         x="-185.35715"
+         y="265.93362">NAc</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m -304.28571,254.86219 c 62.02347,-20.5234 92.86505,34.35289 102.23214,47.41072"
+       id="path4338"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -207.85714,320.21933 c -5.26448,9.21042 -1.33055,19.12842 5.71428,29.28571"
+       id="path4964"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m -191.87626,353.589 c 18.65305,-9.50561 58.4802,-1.00447 79.05627,-0.57647"
+       id="path4964-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-103.57143"
+       y="361.64789"
+       id="text5166"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5168"
+         x="-103.57143"
+         y="361.64789">OT-LTDs</tspan></text>
+    <path
+       transform="translate(-4.9999982,239.50001)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4192-6"
+       sodipodi:cx="-168.92857"
+       sodipodi:cy="366.64789"
+       sodipodi:rx="116.78571"
+       sodipodi:ry="87.14286"
+       d="m -52.14286,366.64789 a 116.78571,87.14286 0 1 1 -233.57143,0 116.78571,87.14286 0 1 1 233.57143,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-322.42856"
+       y="524.86523"
+       id="text4334-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4336-3"
+         x="-322.42856"
+         y="524.86523">DORSAL RAPHE</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m -154.75261,546.66437 c 48.3273,-43.96127 15.65792,-97.76946 8.87991,-112.34026"
+       id="path4338-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m -180.45329,435.09126 c -26.41385,23.78936 -28.16527,50.99944 -23.26218,73.08606 3.98754,17.96244 12.37647,32.53617 15.48018,39.12522"
+       id="path4338-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763000000066"
+       id="path4154-6-8"
+       sodipodi:cx="-213.57143"
+       sodipodi:cy="338.52289"
+       sodipodi:rx="3.2142856"
+       sodipodi:ry="4.375"
+       d="m -210.35714,338.52289 a 3.2142856,4.375 0 1 1 -6.42857,0 3.2142856,4.375 0 1 1 6.42857,0 z"
+       transform="translate(82.142855,214.55358)" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-132.97098"
+       y="570.98859"
+       id="text4188-7-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4190-5-6"
+         x="-132.97098"
+         y="570.98859">5-HT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-125.71429"
+       y="493.79077"
+       id="text5285"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5287"
+         x="-125.71429"
+         y="493.79077">INTERACCIÓN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-96.428574"
+       y="527.36218"
+       id="text5289"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5291"
+         x="-96.428574"
+         y="527.36218" /></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.90000000000000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763000000066"
+       id="rect5293"
+       width="135"
+       height="84.285713"
+       x="-551.42859"
+       y="355.93362" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
+       d="m -518.57143,330.93361 c -21.1186,3.02199 -15.97072,21.69176 3.57143,49.28572"
+       id="path5295"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-566.42859"
+       y="352.36218"
+       id="text5483"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5485"
+         x="-566.42859"
+         y="352.36218">NAc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-510.71429"
+       y="408.07648"
+       id="text5487"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5489"
+         x="-510.71429"
+         y="408.07648">LTD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-514.28571"
+       y="330.57645"
+       id="text5491"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5493"
+         x="-514.28571"
+         y="330.57645">Agonista</tspan><tspan
+         sodipodi:role="line"
+         x="-514.28571"
+         y="344.32645"
+         id="tspan5495">receptor 5-HT1B</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="rect5293-8"
+       width="135"
+       height="84.285713"
+       x="-553.47906"
+       y="496.56592" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
+       d="m -520.62192,471.5659 c -21.1186,3.02199 -15.97072,21.69176 3.57143,49.28572"
+       id="path5295-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-568.47906"
+       y="492.99448"
+       id="text5483-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5485-2"
+         x="-568.47906"
+         y="492.99448">NAc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-512.76477"
+       y="548.70874"
+       id="text5487-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5489-7"
+         x="-512.76477"
+         y="548.70874">OT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-516.33618"
+       y="471.20874"
+       id="text5491-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5493-1"
+         x="-516.33618"
+         y="471.20874">Antagonista</tspan><tspan
+         sodipodi:role="line"
+         x="-516.33618"
+         y="484.95874"
+         id="tspan5495-7">receptor 5-HT1B</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -486.42857,528.79075 28.57143,40"
+       id="path5545"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -462,526.79075 -27.14286,38.57143"
+       id="path5547"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="rect5293-2"
+       width="135"
+       height="84.285713"
+       x="-743.62195"
+       y="358.56592" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
+       d="m -710.76478,333.5659 c -21.1186,3.02199 -15.97072,21.69176 3.57143,49.28572"
+       id="path5295-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-758.62195"
+       y="354.99448"
+       id="text5483-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5485-23"
+         x="-758.62195"
+         y="354.99448">NAc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-702.90765"
+       y="410.70877"
+       id="text5487-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5489-0"
+         x="-702.90765"
+         y="410.70877">LTD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-706.47906"
+       y="333.20874"
+       id="text5491-01"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5493-4"
+         x="-706.47906"
+         y="333.20874">Agonista</tspan><tspan
+         sodipodi:role="line"
+         x="-706.47906"
+         y="346.95874"
+         id="tspan5495-5">receptor 5-HT1B</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="m -487.14286,544.50504 22.14286,0"
+       id="path5576"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-456.25931"
+       y="548.3717"
+       id="text5487-4-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5489-7-9"
+         x="-456.25931"
+         y="548.3717">LTD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-457.29938"
+       y="382.79489"
+       id="text5487-4-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5489-7-2"
+         x="-457.29938"
+         y="382.79489">OT</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.75728059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -459.69279,363.52654 21.67129,30.24272"
+       id="path5545-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.75728059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -437.16435,363.38368 -21.67129,30.24272"
+       id="path5545-9-8"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="rect5293-2-8"
+       width="135"
+       height="84.285713"
+       x="-744.05054"
+       y="500.28021" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-759.05054"
+       y="496.70877"
+       id="text5483-6-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5485-23-2"
+         x="-759.05054"
+         y="496.70877">NAc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-715.47913"
+       y="538.85162"
+       id="text5487-8-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5489-0-2"
+         x="-715.47913"
+         y="538.85162">No CPP social</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-706.90765"
+       y="474.92303"
+       id="text5491-01-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5493-4-4"
+         x="-706.90765"
+         y="474.92303">Antgonista</tspan><tspan
+         sodipodi:role="line"
+         x="-706.90765"
+         y="488.67303"
+         id="tspan5495-5-1">receptor 5-HT1B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-751.42859"
+       y="598.79077"
+       id="text5902"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5904"
+         x="-751.42859"
+         y="598.79077">durante el condicionamiento</tspan></text>
+    <g
+       style="fill:#00ff00;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="g5951"
+       transform="matrix(-0.03446094,0.06726856,-0.06726856,-0.03446094,-157.09328,360.19809)">
+      <path
+         transform="matrix(0.65013159,0.75982163,-0.75982163,0.65013159,251.41699,395.4912)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-8-4-5-5"
+         style="fill:#00ff00;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.65013159,-0.75982163,-0.75982163,-0.65013159,249.80057,640.95761)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-2-1-0-0-5"
+         style="fill:#00ff00;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4114-7-4-2-0"
+         d="m -114.66513,473.91527 c 0,0 16.749716,9.12219 16.667521,40.40611 -0.100035,38.07382 -15.657361,48.48732 -15.657361,48.48732"
+         style="fill:none;stroke:#ff0000;stroke-width:3.96920705;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path4116-2-5-7-2"
+         d="m -72.238719,421.38734 c 0,0 29.680594,10.68663 28.789348,94.44927 -0.891246,83.76264 -25.75889,97.47972 -25.75889,97.47972"
+         style="fill:#00ff00;stroke:#ff0000;stroke-width:3.96920705;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:2.64613795;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         d="m -70.400645,609.77805 c -1.066205,-0.0568 -31.372785,-34.7834 -35.601845,-40.79452 l -3.36367,-4.78107 4.67412,-8.53306 c 12.93134,-23.60762 12.156985,-62.8774 -1.52733,-77.46059 -2.60963,-2.78118 -4.71806,-5.55912 -4.68536,-6.17321 0.0327,-0.61436 8.43899,-10.96695 18.680828,-23.00609 l 18.621358,-21.88942 0.54694,7.19483 c 0.300683,3.95719 0.975445,41.47221 1.499242,83.36688 0.523672,41.89452 1.175672,79.75984 1.448919,84.14512 0.273908,4.38531 0.140812,7.95425 -0.289899,7.93131 z"
+         id="path4244-3-7"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5951-6"
+       style="fill:#00ff00;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(-0.03098757,-0.06893755,0.06893755,-0.03098757,-226.96589,388.24785)">
+      <path
+         transform="matrix(0.65013159,0.75982163,-0.75982163,0.65013159,251.41699,395.4912)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-8-4-5-5-0"
+         style="fill:#00ff00;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.65013159,-0.75982163,-0.75982163,-0.65013159,249.80057,640.95761)"
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         d="m -42.426411,385.6615 c 0,21.75778 -15.263798,39.39595 -34.092647,39.39595 -18.82885,0 -34.092652,-17.63817 -34.092652,-39.39595 0,0 0,0 0,0"
+         sodipodi:ry="39.39595"
+         sodipodi:rx="34.092648"
+         sodipodi:cy="385.6615"
+         sodipodi:cx="-76.519058"
+         id="path4092-2-1-0-0-5-7"
+         style="fill:#00ff00;stroke:#ff0000;stroke-width:3.96920705;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4114-7-4-2-0-6"
+         d="m -114.66513,473.91527 c 0,0 16.749716,9.12219 16.667521,40.40611 -0.100035,38.07382 -15.657361,48.48732 -15.657361,48.48732"
+         style="fill:none;stroke:#ff0000;stroke-width:3.96920705;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path4116-2-5-7-2-3"
+         d="m -72.238719,421.38734 c 0,0 29.680594,10.68663 28.789348,94.44927 -0.891246,83.76264 -25.75889,97.47972 -25.75889,97.47972"
+         style="fill:#00ff00;stroke:#ff0000;stroke-width:3.96920705;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:2.64613795;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+         d="m -70.400645,609.77805 c -1.066205,-0.0568 -31.372785,-34.7834 -35.601845,-40.79452 l -3.36367,-4.78107 4.67412,-8.53306 c 12.93134,-23.60762 12.156985,-62.8774 -1.52733,-77.46059 -2.60963,-2.78118 -4.71806,-5.55912 -4.68536,-6.17321 0.0327,-0.61436 8.43899,-10.96695 18.680828,-23.00609 l 18.621358,-21.88942 0.54694,7.19483 c 0.300683,3.95719 0.975445,41.47221 1.499242,83.36688 0.523672,41.89452 1.175672,79.75984 1.448919,84.14512 0.273908,4.38531 0.140812,7.95425 -0.289899,7.93131 z"
+         id="path4244-3-7-4"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-195.008"
+       y="391.77094"
+       id="text4188-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4190-1"
+         x="-195.008"
+         y="391.77094">5-HT1B</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4154-6-8-5"
+       sodipodi:cx="-213.57143"
+       sodipodi:cy="338.52289"
+       sodipodi:rx="3.2142856"
+       sodipodi:ry="4.375"
+       d="m -210.35714,338.52289 a 3.2142856,4.375 0 1 1 -6.42857,0 3.2142856,4.375 0 1 1 6.42857,0 z"
+       transform="translate(81.241443,92.59548)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4154-6-8-7"
+       sodipodi:cx="-213.57143"
+       sodipodi:cy="338.52289"
+       sodipodi:rx="3.2142856"
+       sodipodi:ry="4.375"
+       d="m -210.35714,338.52289 a 3.2142856,4.375 0 1 1 -6.42857,0 3.2142856,4.375 0 1 1 6.42857,0 z"
+       transform="translate(79.221138,73.402581)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="path4154-6-8-6"
+       sodipodi:cx="-213.57143"
+       sodipodi:cy="338.52289"
+       sodipodi:rx="3.2142856"
+       sodipodi:ry="4.375"
+       d="m -210.35714,338.52289 a 3.2142856,4.375 0 1 1 -6.42857,0 3.2142856,4.375 0 1 1 6.42857,0 z"
+       transform="translate(61.543468,86.534564)" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="76.873116"
+       y="470.04794"
+       id="text3755-7-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757-6-2"
+         x="76.873116"
+         y="470.04794">NAc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="76.50663"
+       y="478.2092"
+       id="text3759-0-26"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="76.50663"
+         y="478.2092"
+         style="font-size:4px"
+         id="tspan3832-7">Componente clave del circuito de recompensa en el  MCL. Nucleus Accumbens está formado </tspan><tspan
+         sodipodi:role="line"
+         x="76.50663"
+         y="483.2092"
+         style="font-size:4px"
+         id="tspan3262">por dos partes, el NAc core y el NAc shell. Juega una importante role la generación de sentido</tspan><tspan
+         sodipodi:role="line"
+         x="76.50663"
+         y="488.2092"
+         style="font-size:4px"
+         id="tspan3264">del placer, incluyendo la risa, la recompensa y el aprendizaje por refuerzo, como así tambien</tspan><tspan
+         sodipodi:role="line"
+         x="76.50663"
+         y="493.2092"
+         style="font-size:4px"
+         id="tspan3266">en el miedo, la agreción, la impulsividad, adicción y el efecto placebo.</tspan><tspan
+         sodipodi:role="line"
+         x="76.50663"
+         y="498.2092"
+         style="font-size:4px"
+         id="tspan3268">El principal tipo de neurona que se encuentra en el NAc es el Medium Spiny Neuron y el neuro-</tspan><tspan
+         sodipodi:role="line"
+         x="76.50663"
+         y="503.2092"
+         style="font-size:4px"
+         id="tspan3270">transmisor producido por estas neuronas es el GABA. (el 95% son medium spiny GABAenergic</tspan><tspan
+         sodipodi:role="line"
+         x="76.50663"
+         y="508.2092"
+         style="font-size:4px"
+         id="tspan3272">proyection neuron).</tspan><tspan
+         sodipodi:role="line"
+         x="76.50663"
+         y="513.20923"
+         style="font-size:4px"
+         id="tspan3274" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="75.51339"
+       y="222.26382"
+       id="text3755-7-3-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757-6-0-9"
+         x="75.51339"
+         y="222.26382">OT funciona como señal de Refuerzo Social en el NAc </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="499.77298"
+       y="301.31378"
+       id="text3247"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3249"
+         x="499.77298"
+         y="301.31378"
+         style="font-size:8px">(es LTD de la EPCs)</tspan><tspan
+         sodipodi:role="line"
+         x="499.77298"
+         y="311.31378"
+         style="font-size:5px"
+         id="tspan3251">corriente excitatoria postsináptica</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="rect5293-2-1"
+       width="135"
+       height="84.285713"
+       x="-993.92859"
+       y="349.50504" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:19.70078763"
+       id="rect5293-2-81"
+       width="135"
+       height="84.285713"
+       x="-994.64282"
+       y="509.50504" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-952.25934"
+       y="401.3717"
+       id="text5487-8-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5489-0-1"
+         x="-952.25934"
+         y="401.3717">LTD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1012.4286"
+       y="338.43668"
+       id="text5483-6-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5485-23-4"
+         x="-1012.4286"
+         y="338.43668">NAc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1011"
+       y="502.00812"
+       id="text5483-6-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5485-23-28"
+         x="-1011"
+         y="502.00812">NAc</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
+       d="m -952.11079,329.14789 c -21.1186,3.02199 -15.97072,21.69176 3.57143,49.28572"
+       id="path5295-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
+       d="m -954.25364,501.29075 c -21.1186,3.02199 -15.97072,21.69176 3.57143,49.28572"
+       id="path5295-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-950.15656"
+       y="331.36633"
+       id="text5487-4-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5489-7-7"
+         x="-950.15656"
+         y="331.36633">OT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-950.15656"
+       y="497.79489"
+       id="text5487-4-28"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5489-7-1"
+         x="-950.15656"
+         y="497.79489">OT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-969.31622"
+       y="568.60583"
+       id="text5487-8-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5489-0-2-3"
+         x="-969.31622"
+         y="568.60583">CPP social</tspan></text>
+  </g>
+</svg>

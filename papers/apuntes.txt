@@ -1,0 +1,40 @@
+Palabras claves:
+------------------------------------------------
+brain nervous system
+modeling 
+neural network
+reciprocal altruism model
+
+------------------------------------------------
+pagina interesantes:
+------------------------------------------------
+http://www.cs.cmu.edu/~dst/Skinnerbots/
+
+http://www.rsj.or.jp/JRSJ/index_e.html
+------------------------------------------------
+papers:
+------------------------------------------------
+Chang, C., & Gaudiano, P. (1998). Application of biological learning theories to mobile
+robot avoidance and approach behaviors. Journal of Complex Systems, 1, 79–114.
+
+Gaudiano, P., & Chang, C. (1997). Adaptive obstacle avoidance with a neural network for
+operant conditioning: Experiments with real robots. In Proceedings of the 1997 IEEE
+International Symposium on Computational Intelligence in Robotics and Automation
+(CIRA) (pp. 13–18). Monterey, CA.
+
+Steels, L. (1991). Towards a theory of emergent functionality. In J. A. Meyer & S. W. Wilson
+(Eds.), From animals to animats: Proceedings of the First International Conference on
+Simulation of Adaptive Behavior (pp. 451–461). Cambridge, MA: Bradford.
+
+ver Cooperation and Sociality
+    Encyclopedia of Animal Behavior, 2010, Pages 396-401
+    T.N. Sherratt, D.M. Wilkinson
+
+ver Cooperation
+    Encyclopedia of Behavioral Neuroscience, 2010, Pages 345-353
+    R. Noë
+L.E. Parker, “ALLIANCE: An Architecture for
+Fault Tolerant Multirobot Cooperation”, IEEE
+Trans. on Robotics and Automation, Vol. 14, No. 2,
+pp. 220-240, 1998.
+

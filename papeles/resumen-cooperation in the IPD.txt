@@ -1,0 +1,36 @@
+REsumen: "Copperation in the IPD is learned by operant conditioning mechanism"
+
+- resumen
+El Dilema del Prisionero es la metafora que lidera la evolución de comportamientos cooperativos.[38]
+...
+Mecanismos de aprendizaje como el Condicionamiento Operante permiten  a animales adquirir características de si entorno en el orden que reciben u obtienen realimentaciones (refuerzos) y evaden castigos (penalizaciones).
+
+En este estudio se evaluó mediante el Dilema del prisionero el rol del Condicionamiento operante en el aprendizaje de cooperación.
+
+Se enconstró que el mecanismo Operante permite jugar el Juego del Dilema del Prisionero iterado y fue constractado con otras estrategias.
+
+- intro 
+surge una paradoja dentro de la teoria evolutiva, ya que la Selección Natural no explica firmeneta la cooperación entre individuos.
+Se esboza una posible solución, estableciendo que la selección natural se aplique tanto a familias como a individuos.
+Hamilton [24] en 1964 da una posible solución a la paradoja generada por la cooperación en el teoría de la Selección Natural, the Kin Selection, que el sacrificio de produciones propias en colaboración con producciones de otros, en pos de obtener un mayor promedio de copias genéticas de su familia.
+Otras teorias que explican la evolución de comportamientos cooperativos son:
+[17]
+[70] trait group selection
+[13] by-product mutualism
+[64,65] reciprocal altruism
+
+El altruismo reciproco involucra un intercambio de beneficios entre dos o mas individuos y un costo asociado a cada acto altruista.
+si no hay ningún individuo que falle en la reciprocidad durante un largo tiempo, cada individuo experimentará un beneficio neto. 
+Este mecanismo de cooperación será seleccionado si exista una protección contra la falta de reciprocidad en los actos altruistas. [5]
+
+Utilizando teorias de juego (PD) Trievers fue el primero en formalizar los principales rasgos.
+El PD fue estudiado en diversas áreas como la biología evolutiva, la sociología, la psicología y la economía. En el juego, un jugador puede o cooperar (C) o rechazar (D) y cada jugador recibe una paga en base a la tabla.
+
+
+El equilibrio cooperativo se matiene cuando se establecen las siguientes relaciones:
+T > R > P > S
+2xR > T + S
+
+ 
+  
+
