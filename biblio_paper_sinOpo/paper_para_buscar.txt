@@ -1,0 +1,50 @@
+Rats exhibit several types of pro-social behavior such as sharing food (Marquez et al., 2015, Hernandez-
+Lallement et al., 2015), providing reciprocal aid to access food (Rutte and Taborsky, 2007), and
+releasing a trapped rat (Ben-Ami Bartal et al., 2011; Sato et al., 2015)
+
+Despite the now numerous demonstrations of rodent pro-social behavior, the motivation driving
+rodent helping remains unclear. The trapped rat paradigm, in which one rat frees a rat trapped
+inside a Plexiglas tube, offers a chance to experimentally dissect the neurobiological motivations
+underpinning pro-social behavior. Some have suggested that helping in this paradigm may
+simply result from approach motivated by a positive cue (eg social contact) or avoidance of a
+negative cue (eg alarm calls) (Silberberg et al., 2014, Vasconcelos et al., 2012). Alternatively,
+rodent helping may be motivated by an affective state of distress that is caught by the helper
+from the trapped animal and resolved by the pro-social act, an idea that is consistent with the
+perception-action model of empathy (de Waal and Preston 2002).
+
+
+Bartal, I. B. A., Decety, J., & Mason, P. (2011). Empathy and pro-social behavior in
+rats. Science, 334(6061), 1427-1430.
+
+Bartal, I. B. A., Rodgers, D. A., Sarria, M. S. B., Decety, J., & Mason, P. (2014). Pro-social
+behavior in rats is modulated by social experience. Elife,3, e01385.
+
+Cronin, K. A. (2012). Prosocial behaviour in animals: the influence of social relationships,
+communication and rewards. Animal Behaviour, 84(5), 1085-1093.
+
+De Waal, F. B. (2008). Putting the altruism back into altruism: The evolution of empathy. Annu.
+Rev. Psychol., 59, 279-300.
+Preston, S. D., & De Waal, F. B. (2002). Empathy: Its ultimate and proximate bases. Behavioral
+and brain sciences, 25(01), 1-20.
+
+Greene, J. T. (1969). Altruistic behavior in the albino rat. Psychonomic science, 14(1), 47-48.
+
+Hernandez-Lallement, J., van Wingerden, M., Marx, C., Srejic, M., & Kalenscher, T. (2014).
+Rats prefer mutual rewards in a prosocial choice task.Frontiers in neuroscience, 8.
+
+Márquez, C., Rennie, S. M., Costa, D. F., & Moita, M. A. (2015). Prosocial choice in rats
+depends on food-seeking behavior displayed by recipients.Current Biology, 25(13), 1736-
+1745.
+
+
+Rutte, C., & Taborsky, M. (2007). Generalized reciprocity in rats. PLoS Biol,5(7), e196.
+
+Sato, N., Tan, L., Tate, K., & Okada, M. (2015). Rats demonstrate helping behavior toward a
+soaked conspecific. Animal cognition, 18(5), 1039-1047.
+
+Silberberg, A., Allouch, C., Sandfort, S., Kearns, D., Karpel, H., & Slotnick, B. (2014). Desire
+for social contact, not empathy, may explain “rescue” behavior in rats. Animal
+cognition, 17(3), 609-618.
+
+Vasconcelos, M., Hollis, K., Nowbahari, E., & Kacelnik, A. (2012). Pro-sociality without
+empathy. Biology letters, rsbl20120554.
